@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+#nav-bar
+{
+	background-color:pink;
+}
+#img
+{
+	margin-top:30px;
+}
+#des
+{
+	text-align:justify;
+}
